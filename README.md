@@ -4,4 +4,4 @@
 - [Two Sum]
 
 ## LinkedList
-- [LinkedList](https://github.com/hanhu0618/leetcode/tree/master)
+- [LinkedList](https://github.com/hanhu0618/leetcode/blob/master/LinkedList.md)
