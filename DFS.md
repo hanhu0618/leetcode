@@ -1,4 +1,5 @@
-[301. Remove Invalid Parentheses]
+##Parentheses
+- [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 Solution:
 
 1. Use count to record unpaired open-parentheses. Once count becomes negative, we need to remove one close-parenthese.
