@@ -8,4 +8,4 @@
 
 
 ## DFS
-- [DFS](https://github.com/hanhu0618/leetcode/blob/master/DFS.md)
+- [Parentheses](https://github.com/hanhu0618/leetcode/blob/master/DFS.md)
