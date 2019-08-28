@@ -1,4 +1,3 @@
-Parenthese
 [301. Remove Invalid Parentheses]
 Solution:
 
