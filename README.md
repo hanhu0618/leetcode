@@ -8,4 +8,4 @@
 
 
 ## DFS
-- [LinkedList](https://github.com/hanhu0618/leetcode/blob/master/DFS.md)
+- [DFS](https://github.com/hanhu0618/leetcode/blob/master/DFS.md)
