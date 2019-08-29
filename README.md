@@ -9,3 +9,7 @@
 
 ## DFS
 - [Parentheses](https://github.com/hanhu0618/leetcode/blob/master/DFS.md)
+
+
+## Others
+- [Compare](https://github.com/hanhu0618/leetcode/blob/master/Others.md)
