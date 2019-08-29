@@ -12,4 +12,4 @@
 
 
 ## Others
-- [Compare](https://github.com/hanhu0618/leetcode/blob/master/Others.md)
+- [String](https://github.com/hanhu0618/leetcode/blob/master/Others.md)
