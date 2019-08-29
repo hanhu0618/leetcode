@@ -1,6 +1,6 @@
 ## Pre-order
 
-- [https://leetcode.com/problems/serialize-and-deserialize-binary-tree/]
+- [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 Solution:<br>
 1. Use pre-order traverse to serilize and deserilize
