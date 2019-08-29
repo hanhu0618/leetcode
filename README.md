@@ -13,7 +13,7 @@
 
 
 ## Binary Tree
-- [Pre Order](https://github.com/hanhu0618/leetcode/blob/master/Pre%20Order.md)
+- [Pre-Order](https://github.com/hanhu0618/leetcode/blob/master/Pre-Order.md)
 
 
 ## Others
