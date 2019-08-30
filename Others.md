@@ -25,7 +25,7 @@ Solution:
 
 tc O()
 
-#Bucket Sort
+# Bucket Sort
 
 - [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
 
