@@ -15,6 +15,9 @@
 ## Binary Tree
 - [Pre-order](https://github.com/hanhu0618/leetcode/blob/master/Pre-order.md)
 
+## Backtracking
+- [N-Queens-Like](https://github.com/hanhu0618/leetcode/blob/master/N-Queens-Like.md)
+
 
 ## Others
 - [String](https://github.com/hanhu0618/leetcode/blob/master/Others.md)
