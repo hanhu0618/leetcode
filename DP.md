@@ -5,11 +5,6 @@ Too hard....
 <br/>
 Solution:
 
-1. Use two deques for BFS, one to store nodes, the other to store levels.
-2. BFS and put all of the nodes into a map.
-3. Traverse the map from the min key to the max key and put all of the results into res.
-<br/>
-
 
 1. S s.charAt(i) == p.charAt(j) || p.charAt(j) == '.' : dp[i][j] = dp[i - 1][j - 1]
 2. S p.charAt(j) == '*'
