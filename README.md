@@ -12,6 +12,10 @@
 - [Parentheses](https://github.com/hanhu0618/leetcode/blob/master/DFS.md)
 
 
+## BFS
+- [BFS](https://github.com/hanhu0618/leetcode/blob/master/BFS.md)
+
+
 ## Binary Tree
 - [Pre-order](https://github.com/hanhu0618/leetcode/blob/master/Pre-order.md)
 
