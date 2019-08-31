@@ -4,6 +4,8 @@
 Too hard....
 <br/>
 Solution:
+1.adsf2
+3.das243
 <br/>
 1.s.charAt(i) == p.charAt(j) || p.charAt(j) == '.' : dp[i][j] = dp[i - 1][j - 1]
 2.p.charAt(j) == '*'
