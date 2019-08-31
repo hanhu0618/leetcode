@@ -36,3 +36,14 @@ solution:
 4. Construct a string according to these buckets
 
 tc O(n + m) We scan S, T once for each and to output the string, we counter O(m) time cost, so the final tc is O(n + m)
+
+
+# Hard to Find Corner Case
+
+- [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)
+
+solution:
+1. Use cols, rows, diag and antidiag to store Xs and Os
+2. Check the corner cases, such as turns can only be 0 or 1, the other player cannot make a move after one player wins
+
+tc O(1)
