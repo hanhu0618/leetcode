@@ -11,7 +11,7 @@ Solution:
 <br/>
 
 
-1.S s.charAt(i) == p.charAt(j) || p.charAt(j) == '.' : dp[i][j] = dp[i - 1][j - 1]
+1. S s.charAt(i) == p.charAt(j) || p.charAt(j) == '.' : dp[i][j] = dp[i - 1][j - 1]
 2.p.charAt(j) == '*'
 3.if(p.charAt(j - 1) != s.charAt(i)) dp[i][j] = dp[i][j - 2]
 4.if(p.charAt(j - 1) == s.charAt(i)) || p.charAt(j) == '.'
