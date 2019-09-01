@@ -7,3 +7,11 @@ Solution:
 3. Traverse the map from the min key to the max key and put all of the results into res.
 
 Be careful, we can't use DFS here, because we may not get the result with vertical order.
+
+## Topological Sort
+- [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+
+Solution:
+
+1. Use HashMap to store topological order
+2. Use BFS to do topogical sort
