@@ -25,6 +25,9 @@
 ## DP
 - [DP](https://github.com/hanhu0618/leetcode/blob/master/DP.md)
 
+## Backtracking
+- [Backtracking](https://github.com/hanhu0618/leetcode/blob/master/Backtracking.md)
+
 
 ## Others
 - [String](https://github.com/hanhu0618/leetcode/blob/master/Others.md)
