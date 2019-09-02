@@ -15,3 +15,12 @@ Solution:
 
 1. Use HashMap to store topological order
 2. Use BFS to do topogical sort
+
+## Find Shortest Distance
+- [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)
+
+Solution:
+
+1. Record distance from one buildings to other empty spots and buildings
+2. Compute distance from one spot to all buildings.
+3. Find the minimum distance sum.
