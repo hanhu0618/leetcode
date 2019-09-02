@@ -25,5 +25,5 @@ similar to 297, except for that we can take advange of bst's feature that all no
 solution:
 
 1. Bottom-up DFS.
-2. We memorize the max sum, and compare when returning to a subtree root.
+2. We memorize the max sum and compare it with current sum when returning to a subtree root.
 3. We we need to return, we choose the max subpath(left or right).
