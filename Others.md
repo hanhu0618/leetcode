@@ -57,3 +57,5 @@ solution:
 2. Use an array or HashMap to store state, which will tell if we meet the requirement
 3. Find a valid substring
 4. Move the start pointer, to find the minimum window
+
+tc O(n)
