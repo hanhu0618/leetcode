@@ -59,3 +59,10 @@ solution:
 4. Move the start pointer, to find the minimum window
 
 tc O(n)
+
+# Sliding Window
+
+- [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+
+solutions:
+1. Nearly the same as 76.
