@@ -47,3 +47,13 @@ solution:
 2. Check the corner cases, such as turns can only be 0 or 1, the other player cannot make a move after one player wins
 
 tc O(1)
+
+# Sliding Window
+
+- [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
+solution:
+1. Use two pointer to mark the start and end.
+2. Use an array or HashMap to store state, which will tell if we meet the requirement
+3. Find a valid substring
+4. Move the start pointer, to find the minimum window
