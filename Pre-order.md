@@ -17,3 +17,13 @@ similar to 297, except for that we can take advange of bst's feature that all no
 
 - TimeComplicity: O(n)
 - SpaceComplicity: O(n)
+
+## Bottom-up DFS
+
+-[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+solution:
+
+1. Bottom-up DFS.
+2. We memorize the max sum, and compare when returning to a subtree root.
+3. We we need to return, we choose the max subpath(left or right).
