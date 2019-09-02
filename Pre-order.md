@@ -20,7 +20,7 @@ similar to 297, except for that we can take advange of bst's feature that all no
 
 ## Bottom-up DFS
 
--[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 solution:
 
